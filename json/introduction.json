@@ -1,0 +1,58 @@
+{
+"hotsale":[
+			{
+				"src":["../img/hot1.jpg",
+						"../img/hot2.jpg",
+						"../img/hot3.jpg",
+						"../img/hot2.jpg"
+					],
+				"title":["台湾胡子王钛金刀1+1劲爆组",
+						"盛力源天然维生素E6+2组",
+						"迪菲怡时尚风范欧美印花连衣裙3+1组",
+						"吉祥全家福(美满无忧两全险)"
+					],
+				"price":["¥199.00",
+						"¥199.00",
+						"¥199.00",
+						"¥00.00"
+					],
+				"intro":["../img/li1.jpg",
+						"../img/li2.jpg",
+						"../img/li3.jpg",
+						"../img/li4.jpg",
+						"../img/li5.jpg",
+						"../img/li6.jpg",
+						"../img/li7.jpg",
+						"../img/li8.jpg",
+						"../img/li9.jpg",
+						"../img/li10.jpg",
+						"../img/li11.jpg",
+						"../img/li12.jpg",
+						"../img/li13.jpg",
+						"../img/li14.jpg",
+						"../img/li15.jpg",
+						"../img/li16.jpg",
+						"../img/li17.jpg",
+						"../img/li18.jpg",
+						"../img/li19.jpg"				
+					]		
+				
+			}
+		],
+		"goodsinfo":[
+					{
+						"src":"../img/intro1.png",
+						"name":"利维斯顿碳晶变频空调式取暖宝",
+						"num":"20120288",
+						"price":"498.00"
+						
+					},
+					{
+						"src":"../img/f22.jpg",
+						"name":"冰希黎boitown浪漫香氛情人节",
+						"num":"20119651",
+						"price":"199.00"
+						
+					}
+		]
+}
